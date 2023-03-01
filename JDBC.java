@@ -15,7 +15,7 @@ public class JDBC {
         System.out.println("Driver loaded...");
 
         //Connection con=DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test","root","charan");
-        Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/vickyDB","root","TechGuy_123");
+        Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/vickyDB","root","T**G_123");
         System.out.println("Connected to the database");
 
         Statement st=con.createStatement();
