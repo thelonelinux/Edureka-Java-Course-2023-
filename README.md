@@ -5,6 +5,9 @@ Java JEE SOA Learning from Edureka
 # To Make Connection
 ---------
 
+* You will need DataGrip IDE, there is where you have already made the connection in linux and DB also created
+* You have already created the DB etc.
+
 * 1. Download some jar file. and the code of forclass will get it
 * 2. Import this library in your project (See in edureka java lecture)
 * 3. You can connect in DatatGrip for your local DB stuffs
